@@ -1,0 +1,103 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+body{
+  background-image: url(../src/assets/Texturelabs_Paper_292M.jpg);
+}
+
+.body-card{
+  background-image: url(../src/assets/Texturelabs_Paper_318M.jpg);
+}
+
+.archivo-black-regular {
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.archivo-black-regular-2 {
+  font-family: "Archivo Black", sans-serif;
+  font-style: normal;
+  
+}
+
+.fondo{
+  background-image: url(../src/assets/sphere-7469332.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+
+}
+
+.fondo2{
+  background-image: url(../src/assets/celtic-1227913.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 200px
+}
+
+.fondo1{
+  background-image: url(../src/assets/sphere-7469337.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.forma1{
+  background-image: url(../src/assets/spiral-7313878.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.forma1{
+  background-image: url(../src/assets/spiral-7313878.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.forma2{
+  background-image: url(../src/assets/scratch-2409873.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+.forma3{
+  background-image: url(../src/assets/torus-8015975.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+.forma4{
+  background-image: url(../src/assets/geometric-8015996.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+
+.colorazul{
+  color:#142b49 ;
+}
+.colorazulfondo{
+  background-color:#142b49 ;
+}
+
+.ibm-plex-sans-regular {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ibm-plex-sans-semibold {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.homebg{       
+  background-image: url(../src/assets/vortex-5171430.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+     
+
+}
