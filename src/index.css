@@ -7,9 +7,6 @@ body{
   background-image: url(../src/assets/Texturelabs_Paper_292M.jpg);
 }
 
-.body-card{
-  background-image: url(../src/assets/Texturelabs_Paper_318M.jpg);
-}
 
 .archivo-black-regular {
   font-family: "Archivo Black", sans-serif;
@@ -50,11 +47,7 @@ body{
   background-repeat: no-repeat;
   background-position: center;
 }
-.forma1{
-  background-image: url(../src/assets/spiral-7313878.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-}
+
 .forma2{
   background-image: url(../src/assets/scratch-2409873.svg);
   background-repeat: no-repeat;
@@ -74,6 +67,36 @@ body{
   background-position: center;
   
 }
+
+.bgFirst{
+  background-image: url(../src/assets/backgrounds/Texturelabs_Paper_337M.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+}
+
+.bgTwo{
+  background-image: url(../src/assets/backgrounds/Texturelabs_Grunge_245M.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+}
+
+.bgThree{
+  background-image: url(../src/assets/backgrounds/Texturelabs_Grunge_165M.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+}
+
+.bgFour{
+  background-image: url(../src/assets/backgrounds/Texturelabs_Paper_250M.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+}
+
+
 
 .colorazul{
   color:#142b49 ;
